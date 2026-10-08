@@ -4,12 +4,12 @@ Cybersecurity Analyst with hands-on experience in independent security projects 
 CompTIA Security+ | Network+ | CySA+ | (ISC)² SSCP
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects - Portfolio under construction 
 
 - **[Vulnerability Management Program Implementation]()**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
-## 🕵️‍♂️ Threat Hunting and Sec Ops 
+## 🕵️‍♂️ Threat Hunting and Sec Ops - Portfolio under construction 
 
 - **[Threat Hunting Scenario (Unwanted Software -TOR)]()**
 
