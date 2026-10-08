@@ -12,6 +12,8 @@ CompTIA Security+ | Network+ | CySA+ | (ISC)² SSCP
 ## 🕵️‍♂️ Threat Hunting and Sec Ops - Portfolio under construction 
 
 - **[Threat Hunting Scenario (Unwanted Software -TOR)]()**
+- **[Threat Hunt for IOCs - Intelligence correlation]()**
+- **[Microsoft Sentinel and MDE detection rule set up]()**
 
 <hr/>
 
